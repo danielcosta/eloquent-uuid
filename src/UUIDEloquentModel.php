@@ -5,7 +5,7 @@ namespace DCST\Database\Eloquent\Models;
 use Illuminate\Database\Eloquent\Model;
 use Ramsey\Uuid\Uuid;
 
-class UUIDEloquentModel extends Model
+abstract class UUIDEloquentModel extends Model
 {
     /**
      * Indicates if the IDs are auto-incrementing.
