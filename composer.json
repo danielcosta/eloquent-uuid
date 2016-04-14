@@ -11,7 +11,7 @@
   },
   "autoload": {
     "psr-4": {
-      "DCST\\Database\\Eloquent\\Models": "src/"
+      "DCST\\Database\\Eloquent\\Models\\": "src/"
     }
   },
   "config": {
