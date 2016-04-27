@@ -1,5 +1,5 @@
 {
-  "name": "dcst/eloquent-uuid",
+  "name": "danielcosta/eloquent-uuid",
   "description": "Eloquent UUID Model",
   "keywords": ["eloquent", "uuid", "model"],
   "license": "MIT",
